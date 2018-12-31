@@ -94,7 +94,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
   <figcaption>Inverted palette, white text on a dark background.</figcaption>
 </figure>
 
-#### Neon skin: `plum`
+#### Plum skin: `plum`
 
 <figure class="half">
   <a href="{{ site.baseurl }}/assets/images/plum-skin-archive-large.png"><img src="{{ site.baseurl }}/assets/images/plum-skin-archive.png"></a>
